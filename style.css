@@ -114,3 +114,38 @@ h1 {
     text-align: end;
     color: #313234;
 }
+
+.content-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.blue-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    width: 1000px;
+    height: 170px;
+    color: white;
+}
+
+#big {
+    font-size: 35px;
+}
+#small {
+    font-size: 20px;
+    color: #cacacb;
+}
+
+.box-button {
+    background-color: #3882f6;
+    border: 3px solid white;
+    color: white;
+    border-radius: 10px;
+    padding: 2px 30px 6px 30px;
+    
+}
